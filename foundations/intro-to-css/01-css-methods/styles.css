@@ -1,4 +1,7 @@
 div {
     color:white;
     background-color:red;
+    font-family: "consolas", "monaco", "monospace"; font-size: 50px;
+    text-align: center;
+    
 }
