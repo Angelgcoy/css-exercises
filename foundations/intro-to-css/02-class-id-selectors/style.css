@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.rose,
+.bigger-rose {
+    background-color: rgb(233, 153, 175);
+    color:black;
+    font-family: "verdana", "DejaVu Sans", "sans-serif";
+}
+
+.bigger-rose {
+    font-size: 24px;
+}
