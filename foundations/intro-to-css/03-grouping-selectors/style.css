@@ -1,1 +1,13 @@
+.font {
+    font-family: "Helvetica" "times new roman" "sans-serif";
+}
+
+.black {
+background-color: black;
+color: white;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;;
 }
