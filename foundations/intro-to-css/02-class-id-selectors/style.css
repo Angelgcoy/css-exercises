@@ -8,3 +8,15 @@
 .bigger-rose {
     font-size: 24px;
 }
+
+#big-blue {
+    color: rgb(30, 24, 229);
+    font-size: 36px;
+}
+
+#small-green {
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(8, 236, 8)
+}
